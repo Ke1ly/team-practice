@@ -1,0 +1,9 @@
+#users > .user-30 {
+  i {
+    color: rgb(55, 102, 152);
+    &:hover {
+      transform: scale(1.1);
+      cursor: pointer;
+    }
+  }
+}
